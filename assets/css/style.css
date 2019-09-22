@@ -1,0 +1,26 @@
+html, body{
+    background: url("../images/moon3.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover; 
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+p ,h2, h3 {
+    text-align: center;
+    color: white;
+    font-family: 'Mansalva', cursive;
+}
+
+
+footer{
+    color: azure;
+    text-align: center
+    
+}
+
+.side-image{
+    float: right;
+}
